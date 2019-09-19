@@ -1,3 +1,7 @@
+def sayHello():
+    print("Hello!!!")
+
+
 n = 4
 t = 2 * n - 1
 i = 0
