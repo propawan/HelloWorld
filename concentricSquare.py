@@ -34,3 +34,4 @@ while i < t:
     print()
 
 print("program by Dev")
+print(":-)")
