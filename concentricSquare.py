@@ -1,6 +1,8 @@
 def sayHello():
     print("Hello!!!")
 
+def author():
+    print("Pawan")
 
 n = 4
 t = 2 * n - 1
